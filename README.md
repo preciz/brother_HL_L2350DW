@@ -1,5 +1,7 @@
 # Linux setup of Brother ‎HL-L2350DW printer
 
+## Use only if printer otherwide doesn't work.
+
 Arch linux:
 ```bash
 pacman -S ipp-usb
