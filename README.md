@@ -1,6 +1,6 @@
 # Linux setup of Brother ‎HL-L2350DW printer
 
-## Use only if printer otherwide doesn't work.
+## Try this method if printer doesn't work with automatic / official setup.
 
 Arch linux:
 ```bash
